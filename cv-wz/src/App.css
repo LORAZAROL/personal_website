@@ -1,0 +1,66 @@
+#root {
+  text-align: center;
+}
+
+.header {
+  background: url('./assets/titleBg.jpg');
+  background-size: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.name {
+  color: #F3EFFD;
+  font-size: 68px;
+  text-align: right;
+  padding-right: 22%;
+  padding-top: 6%;
+}
+
+.personalInfo {
+  color: #E5d8fd;
+  text-align: center;
+  font-size: 24px;
+  padding-left: 50px;
+  padding-right: 20%;
+  padding-bottom: 40px;
+  padding-top: 1%;
+}
+
+[class|='wheelnav'] {
+  fill: #1572b6;
+  stroke: white;
+  stroke-width: 2px;
+  cursor: pointer;
+}
+
+#skillHint {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 100px;
+  width: 200px;
+  border-radius: 0 0 200px 200px;
+  background-color: #a1f798;
+  line-height: 65px;
+  margin-top: 43px;
+  font-size: 30px;
+  font-weight: bold;
+  color: #1b4c67;
+}
+
+#contact {
+  margin: 30px;
+}
+
+#linkedin {
+  padding: 40px;
+}
+
+#resume {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+
+

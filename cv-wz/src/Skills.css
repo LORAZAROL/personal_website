@@ -1,0 +1,28 @@
+#skillnav {
+    justify-content: center;
+    height: 100px;
+}
+
+#skillHint {
+    justify-content: center;
+}
+
+#skillContent {
+    margin: 40px;
+    width: 100%;
+}
+
+.skillItem {
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 15px;
+    border: none;
+    font-size: 20px;
+    color: rgb(244, 226, 235);
+    background-color: rgba(222, 104, 228, 0.858);
+}
